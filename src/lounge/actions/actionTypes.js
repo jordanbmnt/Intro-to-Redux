@@ -1,0 +1,9 @@
+const loungeActionType = {
+  SET_LOUNGE_LIGHTING: "SET_LOUNGE_LIGHTING",
+  SET_NOW_PLAYING_VIDEO: "SET_NOW_PLAYING_VIDEO",
+  SET_TV_ON: "SET_TV_ON",
+  SET_TV_VOLUME: "SET_TV_VOLUME",
+  SET_CURTAINS_OPEN: "SET_CURTAINS_OPEN",
+};
+
+module.exports = { loungeActionType };

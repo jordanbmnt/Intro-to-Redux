@@ -1,0 +1,26 @@
+{
+  "name": "jordan-beaumont-469-intro-to-redux-for-home-automation-javascript",
+  "version": "1.0.0",
+  "description": "Intro to Redux for home automation: the basics (469)\r For raw project instructions see: http://syllabus.africacode.net/projects/redux-intro/part-1/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Jordan-Beaumont-469-intro-to-redux-for-home-automation-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Jordan-Beaumont-469-intro-to-redux-for-home-automation-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Jordan-Beaumont-469-intro-to-redux-for-home-automation-javascript#readme",
+  "devDependencies": {
+    "redux": "^4.2.1"
+  },
+  "dependencies": {
+    "redux-thunk": "^2.4.2"
+  }
+}
